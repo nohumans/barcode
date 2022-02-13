@@ -1,4 +1,4 @@
-<?php namespace Milon\Barcode\Facades;
+<?php namespace Nohumans\Barcode\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

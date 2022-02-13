@@ -1,6 +1,6 @@
 <?php
 
-namespace Milon\Barcode;
+namespace Nohumans\Barcode;
 
 //============================================================+
 // File name   : pdf417.php

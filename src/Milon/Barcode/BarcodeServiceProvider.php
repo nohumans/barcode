@@ -1,6 +1,6 @@
 <?php 
 
-namespace Milon\Barcode;
+namespace Nohumans\Barcode;
 
 use Illuminate\Support\ServiceProvider;
 
