@@ -36,11 +36,11 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Nohumans\\Barcode\\BarcodeServiceProvider"
+                "Nohumans\\src\\BarcodeServiceProvider"
             ],
             "aliases": {
-                "DNS1D": "Nohumans\\Barcode\\Facades\\DNS1DFacade",
-                "DNS2D": "Nohumans\\Barcode\\Facades\\DNS2DFacade"
+                "DNS1D": "Nohumans\\src\\Facades\\DNS1DFacade",
+                "DNS2D": "Nohumans\\src\\Facades\\DNS2DFacade"
             }
         }
     }
